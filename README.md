@@ -3,6 +3,7 @@ Project example using hexagonal archtecture based in Arquitetura Hexagonal/Ports
 
 ### Requirements
 * Java JDK 17
+* Gradle 8.11.1
 * Wiremock standalone 3.10.0
 * Docker 27.3.1
 
